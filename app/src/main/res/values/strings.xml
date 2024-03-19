@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Yoga</string>
+    <string name="text1"> 1. Take five to 10 minutes to warm up and cool down properly.\n
+    </string>
+    <string name="text2">    2. Plan to start slowly and boost your activity level gradually unless you are already exercising frequently and vigorously.\n
+</string>
+    <string name="text3">    3.Be aware that training too hard or too often can cause overuse injuries like stress fractures, stiff or sore joints and muscles, and inflamed tendons and ligaments. Sports prompting repetitive wear and tear on certain parts of your body — such as swimming (shoulders), jogging (knees, ankles, and feet), tennis (elbows) — are often overuse culprits, too. A mix of different kinds of activities and sufficient rest is safer.\n
+</string>
+    <string name="text4">    4. Listen to your body. Hold off on exercise when you are sick or feeling very fatigued. Cut back if you cannot finish an exercise session, feel faint after exercise or fatigued during the day, or suffer persistent aches and pains in joints after exercising.\n
+</string>
+    <string name="text5">    5. If you stop exercising for a while, drop back to a lower level of exercise initially. If you are doing strength training, for example, lift lighter weights or do fewer reps or sets.\n
+</string>
+    <string name="text6">    6. For most people, simply drinking plenty of water is sufficient. But if you are working out especially hard or doing a marathon or triathlon, choose drinks that replace fluids plus essential electrolytes.\n
+</string>
+    <string name="text7">    7. Choose clothes and shoes designed for your type of exercise. Replace shoes every six months as cushioning wears out.\n
+</string>
+    <string name="text8">    8. For strength training, good form is essential. Initially use no weight, or very light weights, when learning the exercises. Never sacrifice good form by hurrying to finish reps or sets, or struggling to lift heavier weights.\n
+</string>
+    <string name="text9">    9. Exercising vigorously in hot, humid conditions can lead to serious overheating and dehydration. Slow your pace when the temperature rises above 70°F. On days when the thermometer is expected to reach 80°F, exercise during cooler morning or evening hours or at an air-conditioned gym. Watch for signs of overheating, such as headache, dizziness, nausea, faintness, cramps, or palpitations.\n
+</string>
+    <string name="text10">    10. Dress properly for cold-weather workouts to avoid hypothermia. Depending on the temperature, wear layers you can peel off as you warm up. Do not forget gloves.
+</string>
+</resources>
